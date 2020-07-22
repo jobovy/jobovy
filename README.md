@@ -11,7 +11,7 @@ I'm an 🔭 _astrophysicist_ 🔭 at the 🎓 University of Toronto 🎓 working
   * [apogee](https://github.com/jobovy/apogee): Tools for dealing with APOGEE data
   * [gaia_tools](https://github.com/jobovy/gaia_tools): Tools for working with the @ESAGaia data and related data sets
   * [extreme deconvolution](https://github.com/jobovy/extreme-deconvolution): Density estimation using Gaussian mixtures in the presence of noisy, heterogeneous and incomplete data
-<a href="http://astro.utoronto.ca/~bovy/AST1420/notes-2019/index.html" target="_blank"><img align="right" src="http://astro.utoronto.ca/~bovy/galaxy.png" alt="a galaxy" width=200px height=200px></a>  
+<a href="http://astro.utoronto.ca/~bovy/AST1420/notes-2019/index.html" target="_blank"><img align="right" src="galaxy.png" alt="a galaxy" width=200px height=200px></a>  
 - 👨‍🏫 Some online courses that I am working on:
   * [Dynamics and Astrophysics of galaxies](http://astro.utoronto.ca/~bovy/AST1420/notes-2019/index.html): An interactive, online graduate textbook on the astrophysics of galaxies
   * [Python code packaging for scientific software](https://pythonpackaging.info): Notes on how to develop a Python package with documentation, tests, etc. (materials for a course based on this available [here](https://github.com/jobovy/code-packaging-minicourse))
