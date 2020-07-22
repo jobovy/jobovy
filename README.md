@@ -23,4 +23,4 @@ I'm an 🔭 _astrophysicist_ 🔭 at the 🎓 University of Toronto 🎓 working
   * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width=20px> Find me on twitter: [@jobovy](https://twitter.com/jobovy)
   * <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width=20px> and on GitHub 😉: [jobovy](https://github.com/jobovy)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jobovy&show_icons=true&hide=[%22contribs%22]"></p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jobovy&show_icons=true&hide=[%22contribs%22]"></p>-->
