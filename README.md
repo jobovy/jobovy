@@ -10,6 +10,7 @@ I'm an 🔭 _astrophysicist_ 🔭 at the 🎓 University of Toronto 🎓 working
   * [kimmy](https://github.com/jobovy/kimmy): a Python package for galactic chemical evolution (also available in [javascript](https://github.com/jobovy/kimmy.js) form!)
   * [apogee](https://github.com/jobovy/apogee): Tools for dealing with APOGEE data
   * [gaia_tools](https://github.com/jobovy/gaia_tools): Tools for working with the @ESAGaia data and related data sets
+  * [mwdust](https://github.com/jobovy/mwdust): Tools for dealing with dust extinction in the Milky Way
   * [extreme deconvolution](https://github.com/jobovy/extreme-deconvolution): Density estimation using Gaussian mixtures in the presence of noisy, heterogeneous and incomplete data
 - 👨‍🏫 Some online courses that I am working on:
   * [Dynamics and Astrophysics of Galaxies](http://astro.utoronto.ca/~bovy/AST1420/notes-2019/index.html): An interactive, online graduate textbook on the astrophysics of galaxies
