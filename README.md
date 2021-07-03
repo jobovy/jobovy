@@ -13,7 +13,7 @@ I'm an 🔭 _astrophysicist_ 🔭 at the 🎓 University of Toronto 🎓 working
   * [mwdust](https://github.com/jobovy/mwdust): Tools for dealing with dust extinction in the Milky Way
   * [extreme deconvolution](https://github.com/jobovy/extreme-deconvolution): Density estimation using Gaussian mixtures in the presence of noisy, heterogeneous and incomplete data
 - 👨‍🏫 Some online courses that I am working on:
-  * [Dynamics and Astrophysics of Galaxies](http://astro.utoronto.ca/~bovy/AST1420/notes-2019/index.html): An interactive, online graduate textbook on the astrophysics of galaxies
+  * [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org): An interactive, online graduate textbook on the astrophysics of galaxies
 <a href="http://astro.utoronto.ca/~bovy/AST1420/notes-2019/index.html" target="_blank"><img align="right" src="https://github.com/jobovy/jobovy/raw/master/galaxy.png" alt="a galaxy" width=200px height=200px></a>  
   * [Python code packaging for scientific software](https://pythonpackaging.info): Notes on how to develop a Python package with documentation, tests, etc. (materials for a course based on this available [here](https://github.com/jobovy/code-packaging-minicourse))
 - 📫 Contact:
